@@ -5,7 +5,7 @@ if (!defined('ENV_HELPER_PATH')) define('ENV_HELPER_PATH', '/var/www/html/curren
 
 // Configuration for Database
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'currency_database_name');
+define('DB_NAME', 'database_name');
 define('DB_USER', 'db_user_name');
 define('DB_PASS', 'db_password');
 
